@@ -6,7 +6,9 @@ These scripts are for internal use only and are provided purely as examples. The
 
 Keep in mind: I'm not a programmer, i just get by as needed. Feel free to fix or suggest changes, any contributions are welcome.
 
-To use them, you need to create GAUGE dashboards so that when you open them in a new tab, they return a link like this:
+
+
+To use this scripts, you need to create GAUGE dashboards so that when you open them in a new tab, they return a link like this:
 
 https://ww19.autotask.net/Mvc/ServiceDesk/TicketGridWidgetDrilldown.mvc/PrimaryStandardDrilldown?ContentId=EXAMPLE*
 
