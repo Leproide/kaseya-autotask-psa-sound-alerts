@@ -3,6 +3,7 @@ Tampermonkey Script for Sound Alerts (New Ticket, Device Offline, etc.) in Autot
 
 WARNING:
 These scripts are for internal use only and are provided purely as examples. They are not free from potential bugs, and everything is in Italian, with filters based on our ticket categories.
+Keep in mind: I'm not a programmer, i just get by as needed. Feel free to fix or suggest changes, any contributions are welcome.
 
 To use them, you need to create GAUGE dashboards so that when you open them in a new tab, they return a link like this:
 
